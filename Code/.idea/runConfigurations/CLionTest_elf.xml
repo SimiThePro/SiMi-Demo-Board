@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="CLionTest.elf" type="com.jetbrains.cidr.embedded.customgdbserver.type" factoryName="com.jetbrains.cidr.embedded.customgdbserver.factory" nameIsGenerated="true" PROGRAM_PARAMS="-s -device STM32H7B0VB -endian little -speed 4000 -vd" REDIRECT_INPUT="false" ELEVATE="true" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CLionTest" TARGET_NAME="CLionTest.elf" CONFIG_NAME="Debug-System" version="1" RUN_TARGET_PROJECT_NAME="CLionTest" RUN_TARGET_NAME="CLionTest.elf">
+    <custom-gdb-server version="1" gdb-connect="tcp:localhost:2331" executable="C:\Program Files\SEGGER\JLink_V810h\JLinkGDBServerCL.exe" warmup-ms="0" download-type="ALWAYS" reset-cmd="monitor reset" reset-type="AFTER_DOWNLOAD">
+      <debugger kind="GDB">C:\Users\simim\Documents\ARM-GNU\bin\arm-none-eabi-gdb.exe</debugger>
+    </custom-gdb-server>
+    <method v="2">
+      <option name="CLION.COMPOUND.BUILD" enabled="true" />
+    </method>
+  </configuration>
+</component>

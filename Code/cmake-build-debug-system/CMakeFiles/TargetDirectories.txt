@@ -1,0 +1,3 @@
+C:/Users/simim/Documents/CLion/Embedded/CLionTest/cmake-build-debug-system/CMakeFiles/CLionTest.elf.dir
+C:/Users/simim/Documents/CLion/Embedded/CLionTest/cmake-build-debug-system/CMakeFiles/edit_cache.dir
+C:/Users/simim/Documents/CLion/Embedded/CLionTest/cmake-build-debug-system/CMakeFiles/rebuild_cache.dir
